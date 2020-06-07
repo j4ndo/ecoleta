@@ -1,4 +1,8 @@
 /server/node_modules
+/server/uploads/*
+!/server/uploads/.gitkeep
+*.sqlite
+
 /web/node_modules
 .pnp
 .pnp.js
@@ -38,3 +42,4 @@ web/package-lock.json
 /mobile/package-lock.json
 /mobile/yarn.lock
 /mobile/yarn-error.log
+server/package-lock.json
