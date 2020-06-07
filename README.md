@@ -16,15 +16,17 @@
 # Summary
 
 - [About](#about)
-- [Technologies](#tecnologias-utilizadas)
+- [Technologies](#technologies-used)
 - [How to Use](#how-use)
-- [How to Contribute](#como-contribuir)
+- [How to Contribute](#how-contribute)
 
 <a id="about"></a>
 
 ## :bookmark: About
 
 O <strong>Ecoleta</strong> is a Web and Mobile application to help people find collection points for recycling in their city or region.
+
+<a id="technologies-used"></a>
 
 ## :rocket: Technologies Used
 
@@ -80,6 +82,8 @@ Once the process is over, the page `localhost:19002` will automatically open in 
 
 ### :exclamation: Insomnia 
 To test the Ecoleta API, download and install [Insomnia](https://insomnia.rest/download/) and then click on Workspace → `Import/Export` → `Import Data` → `From File` → and select the file `Insomnia_export.json` from this repository.
+
+<a id="how-contribute"></a>
 
 ## :recycle: How to contribute
 - First, leave one ⭐ if you liked it!
