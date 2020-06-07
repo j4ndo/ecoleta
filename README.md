@@ -1,15 +1,17 @@
-<h3 align="center">
-    <img alt="Logo" title="#logo" width="800px" src="./github_assets/home.svg">
-    <br>
-</h3>
-<p align="center"> 🚀 <strong>Ecoleta:</strong> Aplicação desenvolvida na 1ª Next Level Week da Rocketseat.
- </p>
-
+<h1 align="center"><img src="./docs/logo.png" alt="Ecoleta" /></h1>
+<p align="center">Project develop in Next Level Week #01</p>
 <p align="center">
-  <a href="https://opensource.org/licenses/MIT">
-    <img src="https://img.shields.io/badge/License-MIT-blue.svg" alt="License MIT">
+  <a href="https://nodejs.org/en/">
+    <img src="https://img.shields.io/static/v1?label=Node&message=JS&color=blue?style=plastic&logo=Node.js" alt="NodeJS" />
+  </a>
+  <a href="https://reactjs.org/">
+    <img src="https://img.shields.io/static/v1?label=React&message=JS&color=blue?style=plastic&logo=React" alt="ReactJS" />
+  </a>
+  <a href="https://reactnative.dev/">
+    <img src="https://img.shields.io/static/v1?label=React&message=Native&color=blue?style=plastic&logo=React" alt="React-Native" />
   </a>
 </p>
+<p align="center"><img src="./docs/capa.png" /></p>
 
 # Índice
 
