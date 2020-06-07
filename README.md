@@ -86,7 +86,7 @@ To test the Ecoleta API, download and install [Insomnia](https://insomnia.rest/d
 <a id="how-contribute"></a>
 
 ## :recycle: How to contribute
-- First, leave one ⭐ if you liked it!
+- First, leave a ⭐ if you liked it!
 - Make a Fork from this repository;
 - Create a branch with your feature: `git checkout -b my-feature`
 - Commit the changes: `git commit -m 'feat: My new feature'`
