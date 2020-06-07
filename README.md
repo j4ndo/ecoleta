@@ -1,32 +1,36 @@
-<h3 align="center">
-    <img alt="Logo" title="#logo" width="800px" src="./github_assets/home.svg">
-    <br>
-</h3>
-<p align="center"> 🚀 <strong>Ecoleta:</strong> Aplicação desenvolvida na 1ª Next Level Week da Rocketseat.
- </p>
-
+<h1 align="center"><img src="./docs/logo.png" alt="Ecoleta" /></h1>
+<p align="center">Project developed in Next Level Week #01</p>
 <p align="center">
-  <a href="https://opensource.org/licenses/MIT">
-    <img src="https://img.shields.io/badge/License-MIT-blue.svg" alt="License MIT">
+  <a href="https://nodejs.org/en/">
+    <img src="https://img.shields.io/static/v1?label=Node&message=JS&color=blue?style=plastic&logo=Node.js" alt="NodeJS" />
+  </a>
+  <a href="https://reactjs.org/">
+    <img src="https://img.shields.io/static/v1?label=React&message=JS&color=blue?style=plastic&logo=React" alt="ReactJS" />
+  </a>
+  <a href="https://reactnative.dev/">
+    <img src="https://img.shields.io/static/v1?label=React&message=Native&color=blue?style=plastic&logo=React" alt="React-Native" />
   </a>
 </p>
+<p align="center"><img src="./docs/capa.png" /></p>
 
-# Índice
+# Summary
 
-- [Sobre](#sobre)
-- [Tecnologias Utilizadas](#tecnologias-utilizadas)
-- [Como Usar](#como-usar)
-- [Como Contribuir](#como-contribuir)
+- [About](#about)
+- [Technologies](#technologies-used)
+- [How to Use](#how-use)
+- [How to Contribute](#how-contribute)
 
-<a id="sobre"></a>
+<a id="about"></a>
 
-## :bookmark: Sobre
+## :bookmark: About
 
-O <strong>Ecoleta</strong> é uma aplicação Web e Mobile para ajudar pessoas a encontrarem pontos de coleta para reciclagem em sua cidade ou região.
+<strong>Ecoleta</strong> is a Web and Mobile application to help people find collection points for recycling in their city or region.
 
-## :rocket: Tecnologias Utilizadas
+<a id="technologies-used"></a>
 
-O projeto foi desenvolvido utilizando as seguintes tecnologias
+## :rocket: Technologies Used
+
+The project was developed using the following technologies
 
 - [TypeScript](https://www.typescriptlang.org/)
 - [Knex](http://knexjs.org/)
@@ -34,61 +38,66 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias
 - [ReactJS](https://reactjs.org/)
 - [React Native](https://reactnative.dev/)
 
-## :heavy_check_mark: Resultado:
+## :art: Figma
+Design: <a href="https://www.figma.com/file/GOKVazlAEsQwNjQguJ1hhc/Ecoleta?node-id=0%3A1" target="__blank">Project Link</a>
 
-- Em breve
+## :heavy_check_mark: Results:
 
-<a id="como-usar"></a>
+- Soon
 
-## :fire: Como utilizar
+<a id="how-use"></a>
+
+## :fire: How to Use
 
 
-### :exclamation: Instalação - Back-End (Servidor/API)
-Clone o projeto em seu computador. Para instalar as dependências e executar o **Servidor** (modo desenvolvimento) execute:
+### :exclamation: Installation - Back-End (Server/API)
+You must to clone the project in your computer. For install the dependencies and run the **Server** (develope mode) you must execute:
 ```bash
 cd server
 yarn install ou npm install
 yarn dev ou npm dev
 ```
 
-### :exclamation: Instalação - Front-End (Aplicação Web)
-Para iniciar o **Frontend** do React utilize os comandos:
+### :exclamation: Installation - Front-End (Web Application)
+To start the **Frontend** of React use the commands:
 ```bash
 cd web
 yarn install ou npm install
 yarn start ou npm start
 ```
-Assim que o processo terminar, automaticamente será aberta no seu navegador a página `localhost:3000` contendo o Projeto desenvolvido no dia 3 de 5.
+Once the process is over, the page `localhost:3000` will automatically open in your browser, containing the project developed.
 
 ### :exclamation: Mobile
 
-Para ver a aplicação mobile com o React Native, primeiro é necessário colocar o IP do seu servidor (ou computador) no arquivo `src/services/api.js`, e depois executar os comandos:
+To view the mobile application with React Native, first you need to put the IP of your server (or computer) in the file `src / services / api.js`, and then execute the commands:
 ```bash
-# NÃO é preciso executar a linha de baixo caso ja tenha o Expo (CLI) instalado
+# You do NOT need to run the bottom line if you already have Expo (CLI) installed
 yarn global add install expo-cli
 cd mobile
 yarn install
 yarn start
 ```
 
-Assim que o processo terminar, automaticamente será aberta no seu navegador a página `localhost:19002`. Conecte seu emulador, ou teste o aplicativo por `LAN`: baixe o aplicativo *Expo* da Play Store ou App Store e em seguida escaneie o código QR.
+Once the process is over, the page `localhost:19002` will automatically open in your browser. Connect your emulator, or test the application via `LAN`: download the * Expo * application from the Play Store or App Store and then scan the QR code.
 
 ### :exclamation: Insomnia 
-Para testar a API do Be The Hero, baixe e instale o [Insomnia](https://insomnia.rest/download/) e em seguida clique na Workspace → `Import/Export` → `Import Data` → `From File` → e selecione o arquivo ` 	Insomnia_export.json` deste repositório.
+To test the Ecoleta API, download and install [Insomnia](https://insomnia.rest/download/) and then click on Workspace → `Import/Export` → `Import Data` → `From File` → and select the file `Insomnia_export.json` from this repository.
 
-## :recycle: Como contribuir
-- Primeiro, deixe uma ⭐ se você gostou!
-- Faça um Fork desse repositório;
-- Crie uma branch com a sua feature: `git checkout -b my-feature`
-- Commit suas mudanças: `git commit -m 'feat: My new feature'`
-- Push a sua branch: `git push origin my-feature`
+<a id="how-contribute"></a>
+
+## :recycle: How to contribute
+- First, leave a ⭐ if you liked it!
+- Make a Fork from this repository;
+- Create a branch with your feature: `git checkout -b my-feature`
+- Commit the changes: `git commit -m 'feat: My new feature'`
+- Push your branch: `git push origin my-feature`
 
 ## :memo: License
 
-Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
+This project use MIT license, see the file [LICENSE](.github/LICENSE.md) for more details
 
 ---
 
 <h4 align="center">
-    Feito com 💜 por <a href="https://www.linkedin.com/in/janderson-fa" target="_blank">Janderson Fonseca</a>
+    Made with 💜 by <a href="https://www.linkedin.com/in/janderson-fa" target="_blank">Janderson Fonseca</a>
 </h4>
