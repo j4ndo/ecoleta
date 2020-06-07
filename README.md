@@ -24,7 +24,7 @@
 
 ## :bookmark: About
 
-O <strong>Ecoleta</strong> is a Web and Mobile application to help people find collection points for recycling in their city or region.
+<strong>Ecoleta</strong> is a Web and Mobile application to help people find collection points for recycling in their city or region.
 
 <a id="technologies-used"></a>
 
