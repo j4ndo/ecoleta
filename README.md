@@ -41,10 +41,6 @@ The project was developed using the following technologies
 ## :art: Figma
 Design: <a href="https://www.figma.com/file/GOKVazlAEsQwNjQguJ1hhc/Ecoleta?node-id=0%3A1" target="__blank">Project Link</a>
 
-## :heavy_check_mark: Results:
-
-- Soon
-
 <a id="how-use"></a>
 
 ## :fire: How to Use
